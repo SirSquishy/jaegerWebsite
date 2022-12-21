@@ -1,0 +1,25 @@
+/* <!-- D6E4E5 497174  EB6440--> */
+body {
+  background-color: #dae2e2;
+}
+
+hr {
+  border: 10px dotted;
+  border-style: none none dotted;
+  border-color: #eb6440;
+  width: 5%;
+}
+h1 {
+  color: #497174;
+}
+h3 {
+  color: #497174;
+}
+
+.bacon {
+  background-color: green;
+}
+
+#heading {
+  color: blue;
+}
